@@ -1,0 +1,159 @@
+{
+    "関係代名詞(主格)": [
+        "I have a friend who lives in Kyoto.",
+        "This is the supermarket which opened last week.",
+        "I have a friend who loves tennis.",
+        "I have a friend that loves tennis.",
+        "Do you know the girl who is singing now?",
+        "Do you know the girl that is singing now?",
+        "This is a book that explains English grammar well.",
+        "This is a book which explains English grammar well.",
+        "He lives in a house which was built by his father.",
+        "He lives in a house that was built by his father.",
+        "This is the only answer that is grammatically correct.",
+        "This is the first accident that has occurred in this plant.",
+        "All the books that are listed can be borrowed.",
+        "There is no medicine that cures this disease.",
+        "He talked about people and things that are important to him.",
+        "Who that knows him will trust him?",
+        "He passed the exam, which is not surprising.",
+        "He said he liked her, which was not true."
+        
+    ],
+    "関係代名詞(目的格)": [
+        "This is the book which I bought yesterday.",
+        "This is the house which he lived in last year.",
+        "This is the house in which he lived last year.",
+        "This is the man whom I met yesterday.",
+        "This is the man who I met yesterday.",
+        "This is the man that I met yesterday.",
+        "Do you know the man whom Mary spoke to?",
+        "Do you know the man who Mary spoke to?",
+        "Do you know the man that Mary spoke to?",
+        "Do you know the man to whom Mary spoke?",
+        "This is the watch which my father gave me.",
+        "This is the watch that my father gave me.",
+        "This is the book which I spoke of yesterday.",
+        "This is the book that I spoke of yesterday.",
+        "This is the book of which I spoke yesterday.",
+        "She is the woman I saw a movie with.",
+        "She is the woman that I saw a movie with.",
+        "She is the woman who I saw a movie with.",
+        "She is the woman whom I saw a movie with.",
+        "She is the woman with whom I saw a movie."
+    ],
+    "関係副詞": [
+        "The city where I was born.",
+        "This is the house where I lived.",
+        "I remember the day when I met you first.",
+        "Tell me the town where you grew up.",
+        "Do you remember the day when you played tennis with Tom.",
+        "I still remember the place where we first met.",
+        "I visited the city where I was born and raised.",
+        "This is the house where I grew up.",
+        "I went to a sushi restaurant where a lot of famous people go.",
+        "I’m going to the beach where I would go with my friends back in the day.",
+        "This is the park where I often play with my son.",
+        "I still remember the day when we first met.",
+        "Do you remember the day when we started this band?",
+        "That was the time when I realized that I had lost my smartphone.",
+        "I'll never forget the moment when he hugged me.",
+        "I miss the days when we used to go camping as a family every summer.",
+        "That was the time when my business was struggling.",
+        "I know the reason why he didn’t come here today.",
+        "I don't know why he's always late for work.",
+        "That's the reason why I decided to study abroad.",
+        "I'm not sure why she's so upset.",
+        "Do you know the reason why they are here?",
+        "I can understand why he's so popular.",
+        "I don’t remember why I said that to her.",
+        "I don't know how he built this house by himself.",
+        "I like the way he thinks.",
+        "I’m not sure how that way works.",
+        "I think that the way he acts is a bit childish.",
+        "That is how I ended up settling down here.",
+        "This is the way I do."
+    ],
+    "間接疑問文": [
+        "I know what she likes.",
+        "I don’t know when Ken is coming.",
+        "I want to know who can get there.",
+        "I wonder why she goes to school.",
+        "Do you know what time it is?",
+        "I don’t know who she is.",
+        "I want to know who teaches them Japanese.",
+        "I know what you said.",
+        "I don’t know what she is doing right now.",
+        "Mr. Tanaka asked me what happened to her.",
+        "Do you know what food she likes?",
+        "I don’t know where you want to visit next.",
+        "My brother doesn’t know where the City Hall is.",
+        "I forgot when I met her.",
+        "I don’t know when your birthday is.",
+        "He didn’t understand why she was angry.",
+        "I asked him why he didn’t go to work.",
+        "I want to know how she passed the exam.",
+        "He asked how long it would take to get to the post office.",
+        "Please tell me how many books you have."
+    ],
+    "同格that": [
+        "The fact that he passed the exam surprised everyone.",
+        "The fact that he succeeded surprised everyone.",
+        "The fact that he apologized surprised everyone.",
+        "The rumor spread that the famous player would transfer to another team next year.",
+        "The news that she won the prize surprised everyone.",
+        "The idea that we should work together is a good one."
+    ],
+    "関係代名詞(所有格)": [
+        "We know the girl whose father is an artist.",
+        "The woman whose brother we know is a pianist.",
+        "The house whose fences are red is my friend's house.",
+        "That is a house whose roof I repaired yesterday.",
+        "The girl whose hair was brown was standing over there."
+    ],
+    
+    "関係代名詞(前置詞あり)" :[
+        "The house of which the fences are red is my friend's house."
+
+    ],
+    "関係代名詞(省略)" : [
+        "Many people know the boy we met yesterday.",
+        "The mountain we climbed last week was very high.",
+        "The woman I helped last night was very beautiful.",
+        "The tree I cut yesterday was very big.",
+        "This is the book I have wanted to buy so long.",
+        "She is the person I want to play tennis with.",
+        "This is the greatest house there is in this area.",
+        "There is something on the table moves slowly.",
+        "She is not the interesting person she used to be."
+
+    ],
+    "形式主語" :[
+        "It is true that he is rich.",
+        "It is no use crying over split milk."
+    ],
+    "強調構文" :[
+
+        "It was Nancy that met George at the library yesterday.",
+        "It was George that Nancy met at the library yesterday.",
+        "It was at the library that Nancy met George yesterday.",
+        "It was yesterday that Nancy met George at the library.",
+        "Was it at the library that Nancy met George yesterday?"
+    ],
+    "geminiTest":[
+        "The news that he had arrived surprised us.",
+        "It was John that broke the window.",
+        "The person who I thought was my friend betrayed me.",
+        "I have a lot of homework to do.",
+        "The place I live is far from here.",
+        "I wonder who implies that he is wrong.",
+        "This is the way I solved the problem.",
+        "The man talking to the teacher is my father.",
+        "I will give you whatever you want.",
+        "There is no rule but has exceptions."
+    ],
+    "what_is_it":[
+        "The person who I thought was my friend betrayed me."
+    ]
+    
+}
