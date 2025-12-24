@@ -1,0 +1,1 @@
+WikipediaDatasets_for_bert_Maker.pyを実行するとbert用のデータセットができるよ。(BERTdatasets.json)
